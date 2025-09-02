@@ -1,0 +1,21 @@
+{
+  "name": "ai-email-agent-gemini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bootstrap": "^5.3.8",
+    "formidable": "^3.5.4",
+    "next": "latest",
+    "nodemailer": "^7.0.6",
+    "pdf-parse": "^1.1.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^5.5.0"
+  }
+}
