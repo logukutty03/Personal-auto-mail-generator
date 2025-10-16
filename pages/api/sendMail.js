@@ -37,8 +37,8 @@ export default async function handler(req, res) {
 
     // Compose email
     const emailText = `
-Dear Hiring Manager,
-Hope you are doing well😊,
+Hi Hiring Manager,
+Hope you are doing well,
 I am applying for the ${designation} role at your company.
 Please find my resume attached.
 I look forward to your response.
